@@ -18,6 +18,7 @@ function App() {
           </div>
               <div className='domo'>
                   <p>Nome:</p> <input className='inpu3' type="text" name="name type ahead" id="email_type_ahead" ></input>
+                  <p>Sobrenome:</p> <input className='inpu3' type="text" name="name type ahead" id="email_type_ahead" ></input>
                   <p>Telefone:</p> <input className='inpu4' type="(number)" name="tel type ahead" id="email_type_ahead" ></input>
                  <p>CPF:</p> <input className='inpu5' type="text" name="email type ahead" id="email_type_ahead" ></input>
                 <p>Email:</p> <input className='inpu1' type="text" name="email type ahead" id="email_type_ahead" ></input>
@@ -41,3 +42,4 @@ function App() {
 }
 
 export default App;
+                                                                                
